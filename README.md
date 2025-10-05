@@ -22,25 +22,34 @@
 ---
 
 ### 📈 GitHub Stats
-![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishor&show_icons=true&theme=dark)
+![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishorJadhav2003&show_icons=true&theme=dark)
+
+---
+
+### 📚 My Repositories
+
+You can view all my projects and repositories here: [Repositories](https://github.com/KishorJadhav2003?tab=repositories)
+
+---
+
+### 🚀 Featured Projects
+
+- [kishor](https://github.com/KishorJadhav2003/kishor) — Hello world. this is my profile
+- [Firewall Rules Audit Automation](https://github.com/KishorJadhav2003/firewall-audit)
+- [SIEM Integration Scripts](https://github.com/KishorJadhav2003/siem-integration)
+- [Incident Response Playbooks](https://github.com/KishorJadhav2003/incident-response)
 
 ---
 
 ### 📫 How to reach me
-- Email: your.email@example.com
+- Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN)
 - Blog: [Security Insights](https://yourblog.com)
 
 ---
 
-### 🚀 Projects
-- [Firewall Rules Audit Automation](https://github.com/yourgithubusername/firewall-audit)
-- [SIEM Integration Scripts](https://github.com/yourgithubusername/siem-integration)
-- [Incident Response Playbooks](https://github.com/yourgithubusername/incident-response)
----
-
 ## 🧾 Resume
 - Download: [Resume PDF](https://your-website.example/resume.pdf)  
-- Or view on LinkedIn: https://www.linkedin.com/in/YOUR-PROFILE
+- Or view on LinkedIn: [https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/YOUR-PROFILE)
 
 > *Always learning. Always securing.*
